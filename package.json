@@ -1,0 +1,20 @@
+{
+  "name": "npm-command-line-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narendravaghela/npm-command-line-demo.git"
+  },
+  "author": "Narendra Vaghela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/narendravaghela/npm-command-line-demo/issues"
+  },
+  "bin": {
+    "new": "index.js"
+  }
+}
