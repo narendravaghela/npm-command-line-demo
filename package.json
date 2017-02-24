@@ -16,7 +16,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "new": "index.js"
+    "npm-command-line-demo": "index.js"
   },
   "dependencies": {
     "commander": "^2.9.0"
